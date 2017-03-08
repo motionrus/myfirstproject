@@ -25,7 +25,7 @@ SECRET_KEY = 'n$isj9b%4(=i7q7#11&j@$0x9l*opsv$9r_vm!)$jaa6(m5%f&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', 'motionrus.pythonanywhere.com']
 
 
 # Application definition
